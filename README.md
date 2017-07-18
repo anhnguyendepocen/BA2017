@@ -31,6 +31,6 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - www.cyclismo.org/tutorial/R/
 - www.coursera.org/course/rprog
 - https://github.com/dicook/SISBID-2016 
-- [dicook.github.io/Monash-R](dicook.github.io/Monash-R)
+- [dicook.github.io/Monash-R](http://dicook.github.io/Monash-R)
 - [www.cookbook-r.com](http://www.cookbook-r.com)
 - [Using RStudio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
