@@ -26,11 +26,11 @@
 
 If you feel like you need more practice in using RStudio, there are lots of free online tutorials. Some good ones (in order of difficulty) are listed below.
 
-- [tryr.codeschool.com](tryr.codeschool.com)
+- [tryr.codeschool.com](http://tryr.codeschool.com)
 - www.datacamp.com/courses/introduction-to-r
 - www.cyclismo.org/tutorial/R/
 - www.coursera.org/course/rprog
 - https://github.com/dicook/SISBID-2016 
 - [dicook.github.io/Monash-R](dicook.github.io/Monash-R)
-- [www.cookbook-r.com](www.cookbook-r.com)
+- [www.cookbook-r.com](http://www.cookbook-r.com)
 - [Using RStudio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
