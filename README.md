@@ -12,15 +12,15 @@
 	- Monday, 2pm-3pm, CL_15 Ancora Imparo Way, Room L1 - Law Theatre (Bldg 12)
 	- Thursday, 12pm-1pm, CL_21 College Walk, Room E5, Eng Theatre (Bldg 32)
 - Labs: 
-	- Wednesday, 9:30am-11:00am, CL_20 Chancellors Walk, Room S317 Computer Lab (Building 11)
-	- Wednesday, 11:00am-12:30pm, CL_20 Chancellors Walk, Room S317 Computer Lab (Building 11)
-	- Wednesday, 12:30pm-2pm, CL_20 Chancellors Walk, Room S317 Computer Lab (Building 11)
+	- (with Mojdeh) Wednesday, 9:30am-11:00am, CL_20 Chancellors Walk, Room S317 Computer Lab (Building 11)
+	- (with Zina) Wednesday, 11:00am-12:30pm, CL_20 Chancellors Walk, Room S317 Computer Lab (Building 11)
+	- (with Mojdeh) Wednesday, 12:30pm-2pm, CL_20 Chancellors Walk, Room S317 Computer Lab (Building 11)
 
 # Consultation hours
 
-- Souhaib: Monday, 1pm-2pm
-- Mojdeh: ??
-- Zina: ??
+- Souhaib: Monday, 1pm-2pm, Room E765, Menzies Building, Clayton campus
+- Mojdeh: Wednesday, 11am-12:30pm, Clayton campus
+- Zina: Wednesday, 1pm-1:45pm, Clayton campus
 
 # Online R help
 
@@ -34,3 +34,14 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - [dicook.github.io/Monash-R](http://dicook.github.io/Monash-R)
 - [www.cookbook-r.com](http://www.cookbook-r.com)
 - [Using RStudio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
+
+# Project
+
+- TBA
+
+Week 1. Introduction to Business Analytics and R: Ch1
+	Lecture 1 (Jul. 24): What is Business Analytics? 
+	Lab 1: Introduction to R 
+	Lecture 2 (Jul. 27): Business Analytics examples
+	
+
