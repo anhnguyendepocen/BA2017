@@ -39,7 +39,9 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 - TBA
 
-# Week 1. Introduction to Business Analytics and R: Ch1
+# Content
+
+- Week 1. Introduction to Business Analytics and R: Ch1
 	- Lecture 1 (Jul. 24): What is Business Analytics? 
 	- Lab 1: Introduction to R 
 	- Lecture 2 (Jul. 27): Business Analytics examples
