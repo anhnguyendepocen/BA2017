@@ -52,7 +52,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lecture 4 (Aug. 3): Assessing model accuracy
 
 - Week 3. Regression: Ch3, 7
-	- Lecture 5 (Aug. 7): Regression revision ([Dr. DAnastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
+	- Lecture 5 (Aug. 7): Regression revision ([Dr. Anastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
 	- Lab 3:
 	- Lecture 6 (Aug. 10): Flexible regression ([Dr. David Frazier](http://monash.edu/research/explore/en/persons/david-frazier(b3a84d85-75f7-4ce8-8732-f7efcc5d772c).html))
 	
