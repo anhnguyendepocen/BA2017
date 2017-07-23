@@ -43,7 +43,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 - Week 1. Introduction to Business Analytics and R: Ch1
 	- Lecture 1 (Jul. 24): What is Business Analytics? [[slides]](slides/1.1-intro.pdf)
-	- Lab 1: Introduction to R [[Rmd file]](lab1/lab1.Rmd)
+	- Lab 1: Introduction to R [[Instructions]](lab1/lab1.pdf) [[Rmd file]](lab1/lab1.Rmd) 
 	- Lecture 2 (Jul. 27): Business Analytics examples
 	
 
