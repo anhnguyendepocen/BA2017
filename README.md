@@ -52,11 +52,54 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lecture 4 (Aug. 3): Assessing model accuracy
 
 - Week 3. Regression: Ch3, 7
-	- Lecture 5 (Aug. 7): Regression revision ([Anastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
+	- Lecture 5 (Aug. 7): Regression revision ([Dr. DAnastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
 	- Lab 3:
-	- Lecture 6 (Aug. 10): Flexible regression ([David Frazier](http://monash.edu/research/explore/en/persons/david-frazier(b3a84d85-75f7-4ce8-8732-f7efcc5d772c).html))
+	- Lecture 6 (Aug. 10): Flexible regression ([Dr. David Frazier](http://monash.edu/research/explore/en/persons/david-frazier(b3a84d85-75f7-4ce8-8732-f7efcc5d772c).html))
 	
 - Week 4. Classification: Ch4
 	- Lecture 7 (Aug. 14): Logistic regression
 	- Lab 4:
 	- Lecture 8 (Aug. 17): Linear discriminant analysis
+	
+- Week 5. Classification: Ch4, 9 
+	- Lecture 9 (Aug. 21): Support vector machines
+	- Lab 5:
+	- Lecture 10 (Aug. 24): Comparison of classifiers
+		
+- Week 6. Visualisation
+	- Lecture 11 (Aug. 28): Visualisation 
+	- Lab 6: 
+	- Lecture 12 (Aug. 31): Visualisation
+	
+- Week 7. Data wrangling
+	- Lecture 13 (Sep. 4): Data wrangling 
+	- Lab 7: 
+	- Lecture 14 (Sep. 7): Data wrangling 
+	
+- Week 8. Resampling Methods: Ch5
+	- Lecture 15 (Sep. 11): Resampling for model selection
+	- Lab 8: 
+	- Lecture 16 (Sep. 14): Bootstrapping
+	
+- Week 9. Dimension reduction: Ch10
+	- Lecture 17 (Sep. 18): Principal Components Analysis 
+	- Lab 9: 
+	- Lecture 18 (Sep. 21): Other dimensionality reduction methods 
+
+- Semester break	
+	
+- Week 10. Clustering
+	- Lecture 19 (Oct. 2): K-means clustering 
+	- Lab 10: 
+	- Lecture 20 (Oct. 5): Hierarchical clsutering	
+	
+- Week 11. Advanced regression
+	- Lecture 21 (Oct. 9): Advanced regression 
+	- Lab 11: 
+	- Lecture 22 (Oct. 12): Advanced regression
+	
+- Week 12. Advanced learning methods
+	- Lecture 23 (Oct. 16): Trees and forests
+	- Lab 12: 
+	- Lecture 24 (Oct. 19): Bagging, Random Forests, Boosting
+	
