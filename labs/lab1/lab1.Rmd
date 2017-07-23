@@ -294,7 +294,7 @@ You can pull data together yourself, or look at data compiled by someone else.
 
 - Your `.Rmd` file
 - Your Word (or pdf) file that results from knitting the Rmd.
-- DUE: Sunday 11:55pm, loaded into Moodle
+- DUE: July 30, 11:55pm, loaded into Moodle
 
 ## Resources
 
