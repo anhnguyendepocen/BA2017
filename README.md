@@ -41,15 +41,15 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 # Content
 
-- Week 1. Introduction to Business Analytics and R: Ch1
-	- Lecture 1 (Jul. 24): What is Business Analytics? [[slides]](slides/1/1.1-intro.pdf)
+- Week 1. Introduction: Ch1
+	- Lecture 1 (Jul. 24): Introduction to Business Analytics and R [[slides]](slides/1/1.1-intro.pdf)
 	- Lab 1: Introduction to R [[pdf]](labs/lab1/lab1.pdf) [[rmd]](labs/lab1/lab1.Rmd) 
-	- Lecture 2 (Jul. 27): Business Analytics examples
+	- Lecture 2 (Jul. 27): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
 	
 - Week 2. Statistical Learning: Ch2
 	- Lecture 3 (Jul. 31): Statistical learning
 	- Lab 2: 
-	- Lecture 4 (Aug. 3): Assessing model accuracy
+	- Lecture 4 (Aug. 3): Statistical learning
 
 - Week 3. Regression: Ch3, 7
 	- Lecture 5 (Aug. 7): Regression revision ([Dr. Anastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
