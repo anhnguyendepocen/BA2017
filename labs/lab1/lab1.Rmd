@@ -2,7 +2,7 @@
 title: "ETC3250 2017 - Lab 1"
 author: "Souhaib Ben Taieb"
 date: "26 July 2017"
-output: pdf_document
+output: html_document
 ---
 
 ```{r, echo = FALSE, message = FALSE, warning = FALSE, warning = FALSE}
