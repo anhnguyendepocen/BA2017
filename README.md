@@ -47,9 +47,9 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lecture 2 (Jul. 27): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
 	
 - Week 2. Statistical Learning: Ch2
-	- Lecture 3 (Jul. 31): Statistical learning
+	- Lecture 3 (Jul. 31): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
 	- Lab 2: 
-	- Lecture 4 (Aug. 3): Statistical learning
+	- Lecture 4 (Aug. 3): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
 
 - Week 3. Regression: Ch3, 7
 	- Lecture 5 (Aug. 7): Regression revision ([Dr. Anastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
