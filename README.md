@@ -48,7 +48,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 2. Statistical Learning: Ch2
 	- Lecture 3 (Jul. 31): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
-	- Lab 2: 
+	- Lab 2: Statistical Learning and R [[pdf]](labs/lab2/lab2.pdf) [[rmd]](labs/lab2/lab2.Rmd) 
 	- Lecture 4 (Aug. 3): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
 
 - Week 3. Regression: Ch3, 7
