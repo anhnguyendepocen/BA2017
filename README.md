@@ -43,12 +43,12 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 - Week 1. Introduction: Ch1
 	- Lecture 1 (Jul. 24): Introduction to Business Analytics and R [[slides]](slides/1/1.1-intro.pdf)
-	- Lab 1: Introduction to R [[pdf]](labs/lab1/lab1.pdf) [[rmd]](labs/lab1/lab1.Rmd) 
+	- Lab 1: Introduction to R [[pdf]](labs/lab1/lab1.pdf) [[Rmd]](labs/lab1/lab1.Rmd) 
 	- Lecture 2 (Jul. 27): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
 	
 - Week 2. Statistical Learning: Ch2
 	- Lecture 3 (Jul. 31): Statistical learning [[slides]](slides/2/2-statlearn.pdf) [[proof]](slides/2/2-biasvardecomp.pdf ) [[Example (R code)]](slides/3/3-gams.R) 
-	- Lab 2: Statistical Learning and R [[pdf]](labs/lab2/lab2.pdf) [[rmd]](labs/lab2/lab2.Rmd) 
+	- Lab 2: Statistical Learning and R [[pdf]](labs/lab2/lab2.pdf) [[Rmd]](labs/lab2/lab2.Rmd)  [[code (Rmd)]](labs/lab2/lab2-code.Rmd) 
 	- Lecture 4 (Aug. 3): Statistical learning [[slides]](slides/2/2-statlearn.pdf)
 
 - Week 3. Regression: Ch3, 7
