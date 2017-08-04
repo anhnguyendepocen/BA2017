@@ -53,7 +53,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 - Week 3. Regression: Ch3, 7
 	- Lecture 5 (Aug. 7): Linear regression [[slides]](slides/3/3.1-linear-regression.pdf) [[Credit scores example (R code)]](slides/3/3-creditscores.R) ([Dr. Anastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
-	- Lab 3: More R programming (no assignment)
+	- Lab 3: More R programming (exercices without assignment)
 	- Lecture 6 (Aug. 10): Flexible regression [[slides]](slides/3/3.2-flexible-regression.pdf) [[GAM example (R code)]](slides/3/3-gams.R) ([Dr. David Frazier](http://monash.edu/research/explore/en/persons/david-frazier(b3a84d85-75f7-4ce8-8732-f7efcc5d772c).html))
 	
 - Week 4. Classification: Ch4
@@ -66,26 +66,26 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lab 5: LDA (+ logit? + qda? + svm?)
 	- Lecture 10 (Aug. 24): Comparison of classifiers
 		
-- Week 8. Resampling Methods: Ch5
-	- Lecture 15 (Sep. 11): Resampling for model selection
+- Week 6. Resampling Methods: Ch5
+	- Lecture 15 (Aug. 28): Resampling for model selection
 	- Lab 8: Cross-validation
-	- Lecture 16 (Sep. 14): Bootstrapping
+	- Lecture 16 (Aug. 31): Bootstrapping
 	
-- Week 9. Dimension reduction: Ch10
-	- Lecture 17 (Sep. 18): Principal Components Analysis 
+- Week 7. Dimension reduction: Ch10
+	- Lecture 17 (Sep. 4): Principal Components Analysis 
 	- Lab 9: Bootstrapping
-	- Lecture 18 (Sep. 21): Other dimensionality reduction methods 
+	- Lecture 18 (Sep. 7): Other dimensionality reduction methods 
 	
-- Week 11. Advanced regression
-	- Lecture 21 (Oct. 9): Advanced regression 
+- Week 8. Advanced regression
+	- Lecture 21 (Sep. 11): Advanced regression 
 	- Lab 11: Principal Components Analysis 
-	- Lecture 22 (Oct. 12): Advanced regression
+	- Lecture 22 (Sep. 14): Advanced regression
 			
 	
-- Week 12. Advanced learning methods
-	- Lecture 23 (Oct. 16): Trees and forests
-	- Lab 12: Advanced methods
-	- Lecture 24 (Oct. 19): Bagging, Random Forests, Boosting
+- Week 9. Advanced learning methods
+	- Lecture 23 (Sep. 18): Trees and forests
+	- Lab 12: Advanced regression
+	- Lecture 24 (Sep. 21): Bagging, Random Forests, Boosting
 	
 
 - Semester break	
@@ -93,18 +93,18 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 - Week 10. Clustering
 	- Lecture 19 (Oct. 2): K-means clustering 
-	- Lab 10: Clustering
+	- Lab 10: Advanced classification
 	- Lecture 20 (Oct. 5): Hierarchical clustering		
 	
-- Week 6. Visualisation
-	- Lecture 11 (Aug. 28): Visualisation 
-	- Lab 6:  Data wrangling 
-	- Lecture 12 (Aug. 31): Visualisation
+- Week 11. Visualisation
+	- Lecture 11 (Oct. 9): Visualisation 
+	- Lab 6:  Clustering 
+	- Lecture 12 (Oct. 12): Visualisation
 	
-- Week 7. Data wrangling
-	- Lecture 13 (Sep. 4): Data wrangling 
-	- Lab 7: Visualisation
-	- Lecture 14 (Sep. 7): Data wrangling 
+- Week 12. Data wrangling
+	- Lecture 13 (Oct. 16): Data wrangling 
+	- Lab 7: Data wrangling and visualisation
+	- Lecture 14 (Oct. 19): Data wrangling 
 	
 
 
