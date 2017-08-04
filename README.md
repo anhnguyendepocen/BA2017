@@ -53,7 +53,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 - Week 3. Regression: Ch3, 7
 	- Lecture 5 (Aug. 7): Linear regression [[slides]](slides/3/3.1-linear-regression.pdf) [[Credit scores example (R code)]](slides/3/3-creditscores.R) ([Dr. Anastasios Panagiotelis](http://monash.edu/research/explore/en/persons/anastasios-panagiotelis(8e78deac-701f-4d45-9a4e-4f4c36a76f34).html))
-	- Lab 3: More R programming (exercices without assignment)
+	- Lab 3: More R programming (exercises without assignment) [[Exercises (pdf)]](labs/lab3/lab3.pdf)
 	- Lecture 6 (Aug. 10): Flexible regression [[slides]](slides/3/3.2-flexible-regression.pdf) [[GAM example (R code)]](slides/3/3-gams.R) ([Dr. David Frazier](http://monash.edu/research/explore/en/persons/david-frazier(b3a84d85-75f7-4ce8-8732-f7efcc5d772c).html))
 	
 - Week 4. Classification: Ch4
