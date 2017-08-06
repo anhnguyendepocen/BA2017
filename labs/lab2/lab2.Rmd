@@ -75,5 +75,5 @@ Write code to answer the following questions:
 
 - Your `.Rmd` file (which should knit without errors and without assuming any packages have been pre-loaded)
 - Your Word (or pdf) file that results from knitting the Rmd.
-- DUE: August 6, 23:55pm (late submissions not allowed), loaded into moodle
+- DUE: August 6, 11:55pm (late submissions not allowed), loaded into moodle
 
