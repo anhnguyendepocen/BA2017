@@ -28,7 +28,7 @@ library(knitr) #
 library(ggplot2) # for graphics
 library(gridExtra)
 
-dataset <- read.csv("speed-dating-data.csv")
+dataset <- read_csv("../../data/speed-dating-data.csv")
 dim(dataset)
 
 DT<-select(dataset,wave, iid, id, gender, idg,match, samerace, age_o,race_o, 
