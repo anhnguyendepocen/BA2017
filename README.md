@@ -68,23 +68,23 @@ If you feel like you need more practice in using RStudio, there are lots of free
 		
 - Week 6. Resampling Methods: Ch5
 	- Lecture 15 (Aug. 28): Resampling for model selection
-	- Lab 8: Cross-validation
+	- Lab 6: Cross-validation
 	- Lecture 16 (Aug. 31): Bootstrapping
 	
 - Week 7. Dimension reduction: Ch10
 	- Lecture 17 (Sep. 4): Principal Components Analysis 
-	- Lab 9: Bootstrapping
+	- Lab 7: Bootstrapping
 	- Lecture 18 (Sep. 7): Other dimensionality reduction methods 
 	
 - Week 8. Advanced regression
 	- Lecture 21 (Sep. 11): Advanced regression 
-	- Lab 11: Principal Components Analysis 
+	- Lab 8: Principal Components Analysis 
 	- Lecture 22 (Sep. 14): Advanced regression
 			
 	
 - Week 9. Advanced learning methods
 	- Lecture 23 (Sep. 18): Trees and forests
-	- Lab 12: Advanced regression
+	- Lab 9: Advanced regression
 	- Lecture 24 (Sep. 21): Bagging, Random Forests, Boosting
 	
 
@@ -98,12 +98,12 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 11. Visualisation
 	- Lecture 11 (Oct. 9): Visualisation 
-	- Lab 6:  Clustering 
+	- Lab 11:  Clustering 
 	- Lecture 12 (Oct. 12): Visualisation
 	
 - Week 12. Data wrangling
 	- Lecture 13 (Oct. 16): Data wrangling 
-	- Lab 7: Data wrangling and visualisation
+	- Lab 12: Data wrangling and visualisation
 	- Lecture 14 (Oct. 19): Data wrangling 
 	
 
