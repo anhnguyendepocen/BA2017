@@ -63,7 +63,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 5. Classification: Ch4, 9 
 	- Lecture 9 (Aug. 21): Support vector machines
-	- Lab 5: LDA (+ logit? + qda? + svm?)
+	- Lab 5: Classification [[lab 5 (pdf)]](labs/lab5/lab5.pdf) [[lab 5 (Rmd)]](labs/lab5/lab5.Rmd)
 	- Lecture 10 (Aug. 24): Comparison of classifiers
 		
 - Week 6. Resampling Methods: Ch5

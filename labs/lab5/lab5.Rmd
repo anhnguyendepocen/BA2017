@@ -1,0 +1,50 @@
+---
+title: "Business Analytics - ETC3250 2017 - Lab 5"
+author: "Souhaib Ben Taieb"
+date: "23 August 2017"
+output: pdf_document
+---
+
+```{r, echo = FALSE, message = FALSE, warning = FALSE, warning = FALSE}
+knitr::opts_chunk$set(
+  message = FALSE,
+  warning = FALSE,
+  error = FALSE, 
+  echo=FALSE,
+  collapse = TRUE,
+  comment = "#",
+  fig.height = 4,
+  fig.width = 8,
+  fig.align = "center",
+  cache = FALSE
+)
+```
+
+## Purpose
+
+This lab will be on classification methods, including logistic regression, linear and quadratic discriminant analysis and nearest neighbors. 
+
+Note: the online version of "An Introduction to Statistical Learning with Applications in R" (ISLR) is availalble at http://www-bcf.usc.edu/~gareth/ISL/.
+
+### Exercice 1
+
+Read and run the code in Sections 4.6.1 to 4.6.6 of ISLR.
+
+### Assignment - Question 1
+
+Do the exercise 7 in chapter 4.7 of ISLR.
+
+### Assignment - Question 2
+
+Do the exercise 8 in chapter 4.7 of ISLR.
+
+### Assignment - Question 3
+
+Do the exercise 10 in chapter 4.7 of ISLR.
+
+## TURN IN 
+
+- Your `.Rmd` file (which should knit without errors and without assuming any packages have been pre-loaded)
+- Your Word (or pdf) file that results from knitting the Rmd.
+- DUE: August 27, 11:55pm (late submissions not allowed), loaded into moodle
+
