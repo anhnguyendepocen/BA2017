@@ -58,7 +58,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 4. Classification: Ch4
 	- Lecture 7 (Aug. 14): Logistic regression [[slides]](slides/4/4-1-logit-regression.pdf)
-	- Lab 4: Regression and K-NN classification [[lab 4 (pdf)]](labs/lab4/lab4.pdf) [[lab 4 (Rmd)]](labs/lab4/lab4.Rmd)
+	- Lab 4: Regression and K-NN classification [[lab 4 (pdf)]](labs/lab4/lab4.pdf) [[lab 4 (Rmd)]](labs/lab4/lab4.Rmd) [[solutions (Rmd)]](labs/lab4/lab4-sol.Rmd) [[solutions (Rmd)]](labs/lab4/lab4-sol.pdf)
 	- Lecture 8 (Aug. 17): Linear discriminant analysis [[slides]](slides/4/4-2-lda.pdf)
 	
 - Week 5. Classification: Ch4, 9 
