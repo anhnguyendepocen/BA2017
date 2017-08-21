@@ -62,9 +62,9 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lecture 8 (Aug. 17): Linear discriminant analysis [[slides]](slides/4/4-2-lda.pdf)
 	
 - Week 5. Classification: Ch4, 9 
-	- Lecture 9 (Aug. 21): Support vector machines
+	- Lecture 9 (Aug. 21): Comparison of classifiers [[slides]](slides/5/5-1-comparison.pdf)
 	- Lab 5: Classification [[lab 5 (pdf)]](labs/lab5/lab5.pdf) [[lab 5 (Rmd)]](labs/lab5/lab5.Rmd)
-	- Lecture 10 (Aug. 24): Comparison of classifiers
+	- Lecture 10 (Aug. 24): Support vector machines 
 		
 - Week 6. Resampling Methods: Ch5
 	- Lecture 15 (Aug. 28): Resampling for model selection
