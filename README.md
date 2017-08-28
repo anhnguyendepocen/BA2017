@@ -66,10 +66,10 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lab 5: Classification [[lab 5 (pdf)]](labs/lab5/lab5.pdf) [[lab 5 (Rmd)]](labs/lab5/lab5.Rmd)
 	- Lecture 10 (Aug. 24): Support vector machines  [[slides]](slides/5/5-2-svm.pdf)
 		
-- Week 6. Resampling Methods: Ch5
-	- Lecture 15 (Aug. 28): Resampling for model selection
+- Week 6. Model selection and resampling methods: Ch5
+	- Lecture 15 (Aug. 28): Model assessment and selection [[slides]](slides/6/6-1-modelsel.pdf)
 	- Lab 6: Cross-validation
-	- Lecture 16 (Aug. 31): Bootstrapping
+	- Lecture 16 (Aug. 31): Resampling methods
 	
 - Week 7. Dimension reduction: Ch10
 	- Lecture 17 (Sep. 4): Principal Components Analysis 
