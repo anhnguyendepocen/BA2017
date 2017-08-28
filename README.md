@@ -58,12 +58,12 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 4. Classification: Ch4
 	- Lecture 7 (Aug. 14): Logistic regression [[slides]](slides/4/4-1-logit-regression.pdf)
-	- Lab 4: Regression and K-NN classification [[lab 4 (pdf)]](labs/lab4/lab4.pdf) [[lab 4 (Rmd)]](labs/lab4/lab4.Rmd) [[solutions (Rmd)]](labs/lab4/lab4-sol.Rmd) [[solutions (Rmd)]](labs/lab4/lab4-sol.pdf)
+	- Lab 4: Regression and K-NN classification [[lab 4 (pdf)]](labs/lab4/lab4.pdf) [[lab 4 (Rmd)]](labs/lab4/lab4.Rmd) [[solutions (Rmd)]](labs/lab4/lab4-sol.Rmd) [[solutions (pdf)]](labs/lab4/lab4-sol.pdf)
 	- Lecture 8 (Aug. 17): Linear discriminant analysis [[slides]](slides/4/4-2-lda.pdf)
 	
 - Week 5. Classification: Ch4, 9 
 	- Lecture 9 (Aug. 21): Comparison of classifiers [[slides]](slides/5/5-1-comparison.pdf)
-	- Lab 5: Classification [[lab 5 (pdf)]](labs/lab5/lab5.pdf) [[lab 5 (Rmd)]](labs/lab5/lab5.Rmd) [[solutions (Rmd)]](labs/lab5/lab5-solution.Rmd)
+	- Lab 5: Classification [[lab 5 (pdf)]](labs/lab5/lab5.pdf) [[lab 5 (Rmd)]](labs/lab5/lab5.Rmd) [[solutions (Rmd)]](labs/lab5/lab5-solution.Rmd) [[solutions (pdf)]](labs/lab5/lab5-solution.pdf)
 	- Lecture 10 (Aug. 24): Support vector machines  [[slides]](slides/5/5-2-svm.pdf)
 		
 - Week 6. Model selection and resampling methods: Ch5
