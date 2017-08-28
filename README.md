@@ -67,7 +67,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lecture 10 (Aug. 24): Support vector machines  [[slides]](slides/5/5-2-svm.pdf)
 		
 - Week 6. Model selection and resampling methods: Ch5
-	- Lecture 15 (Aug. 28): Model assessment and selection [[slides]](slides/6/6-1-modelsel.pdf)
+	- Lecture 15 (Aug. 28): Model assessment and selection [[slides]](slides/6/6-1-modelsel.pdf) [[proof]](slides/6/6-loocv.pdf) 
 	- Lab 6: Cross-validation
 	- Lecture 16 (Aug. 31): Resampling methods
 	
