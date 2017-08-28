@@ -68,7 +68,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 		
 - Week 6. Model selection and resampling methods: Ch5
 	- Lecture 15 (Aug. 28): Model assessment and selection [[slides]](slides/6/6-1-modelsel.pdf) [[proof]](slides/6/6-loocv.pdf) 
-	- Lab 6: Model selection [[lab 6 (pdf)]](labs/lab6/lab6.pdf) [[lab 5 (Rmd)]](labs/lab6/lab6.Rmd)
+	- Lab 6: Model selection [[lab 6 (pdf)]](labs/lab6/lab6.pdf) [[lab 6 (Rmd)]](labs/lab6/lab6.Rmd)
 	- Lecture 16 (Aug. 31): Resampling methods
 	
 - Week 7. Dimension reduction: Ch10
