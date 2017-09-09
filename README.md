@@ -35,7 +35,9 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - [www.cookbook-r.com](http://www.cookbook-r.com)
 - [Using RStudio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
 
-# [[Project 2017]](project/project.pdf)
+# Project
+
+- [[Project 2017]](project/project.pdf)
 
 # Content
 
