@@ -38,6 +38,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 # Project
 
 - [Project 2017](project/project.pdf)
+- [Training data](project/working/Dtrain_final.csv)
 
 # Content
 
