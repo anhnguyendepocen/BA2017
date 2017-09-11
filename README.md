@@ -78,7 +78,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lecture 18 (Sep. 7): Other dimensionality reduction methods [[slides]](slides/7/7-2-other-dimension-reduction.pdf)
 	
 - Week 8. Advanced regression
-	- Lecture 21 (Sep. 11): Advanced regression 
+	- Lecture 21 (Sep. 11): Advanced regression  [[slides]](slides/8/8-advanced-regression.pdf)
 	- Lab 8: Principal Components Analysis [[lab 8 (pdf)]](labs/lab8/lab8.pdf) [[lab 8 (Rmd)]](labs/lab8/lab8.Rmd)
 	- Lecture 22 (Sep. 14): Advanced regression
 			
