@@ -39,7 +39,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 - [Project 2017](project/project.pdf)
 - [Training data](project/working/Dtrain_final.csv)
-- [Example 1](project/examples/example1.pdf) [Example 2](project/examples/example2.pdf) [Example 3](project/examples/example3.pdf) [Example 4](project/examples/example4.pdf) [Example 5](project/examples/example5.pdf)
+- [Example 1](project/examples/example1.pdf) [Example 2](project/examples/example2.pdf) [Example 3](project/examples/example3.pdf) [Example 4](project/examples/example4.pdf)
 
 # Content
 
