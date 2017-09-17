@@ -86,7 +86,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 9. Advanced learning methods
 	- Lecture 23 (Sep. 18): Trees and forests
-	- Lab 9: Advanced regression
+	- Lab 9: Advanced regression [[lab 9 (pdf)]](labs/lab9/lab9.pdf) [[lab 9 (Rmd)]](labs/lab9/lab9.Rmd)
 	- Lecture 24 (Sep. 21): Bagging, Random Forests, Boosting
 	
 
