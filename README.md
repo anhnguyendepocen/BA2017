@@ -75,12 +75,12 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 7. Dimension reduction: Ch10
 	- Lecture 17 (Sep. 4): Principal Components Analysis  [[slides]](slides/7/7-1-dimension-reduction.pdf)
-	- Lab 7: Bootstrapping [[lab 7 (pdf)]](labs/lab7/lab7.pdf) [[lab 7 (Rmd)]](labs/lab7/lab7.Rmd) [[solutions (Rmd)]](labs/lab7/lab7-sol.Rmd) [[solutions (pdf)]](labs/lab7/lab7-sol.pdf) [[solutions (Rmd)]](labs/lab8/lab8-solution.Rmd) [[solutions (pdf)]](labs/lab8/lab8-solution.pdf)
+	- Lab 7: Bootstrapping [[lab 7 (pdf)]](labs/lab7/lab7.pdf) [[lab 7 (Rmd)]](labs/lab7/lab7.Rmd) [[solutions (Rmd)]](labs/lab7/lab7-sol.Rmd) [[solutions (pdf)]](labs/lab7/lab7-sol.pdf) 
 	- Lecture 18 (Sep. 7): Other dimensionality reduction methods [[slides]](slides/7/7-2-other-dimension-reduction.pdf)
 	
 - Week 8. Advanced regression
 	- Lecture 21 (Sep. 11): Advanced regression  [[slides]](slides/8/8-advanced-regression.pdf)
-	- Lab 8: Principal Components Analysis [[lab 8 (pdf)]](labs/lab8/lab8.pdf) [[lab 8 (Rmd)]](labs/lab8/lab8.Rmd)
+	- Lab 8: Principal Components Analysis [[lab 8 (pdf)]](labs/lab8/lab8.pdf) [[lab 8 (Rmd)]](labs/lab8/lab8.Rmd) [[solutions (Rmd)]](labs/lab8/lab8-solution.Rmd) [[solutions (pdf)]](labs/lab8/lab8-solution.pdf)
 	- Lecture 22 (Sep. 14): Advanced regression [[slides]](slides/8/8-advanced-regression.pdf)
 			
 	
