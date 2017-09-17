@@ -34,7 +34,7 @@ Read Section 6.2 of ISLR and do the exercise 2 in Section 6.8.
 
 ## Assignment
 
-We will use ridge regression and the lasso to estimate the salary of various baseball players based on several predictor measurements. This data set is taken from the *ISLR* package. Download the file *hitters.Rdata* at http://bsouhaib.github.io/BusinessAnalytics/labs/hitters.Rdata. We will use the implementation of these algorithms available in the *glmnet* package.
+We will use ridge regression and the lasso to estimate the salary of various baseball players based on several predictor measurements. This data set is taken from the *ISLR* package. Download the file *hitters.Rdata* at https://github.com/bsouhaib/BA2017/blob/master/data/hitters.rdata. We will use the implementation of these algorithms available in the *glmnet* package.
 
 ## Question 1
 
@@ -42,8 +42,6 @@ The *glmnet* function, by default, internally scales the predictor variables so 
 
 
 ## Question 2
-
-Download the file *hitters.Rdata* from https://github.com/bsouhaib/BA2017/blob/master/data/hitters.rdata.
 
 Run the following commands:
 
