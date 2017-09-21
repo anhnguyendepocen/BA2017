@@ -87,7 +87,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - Week 9. Tree-based methods
 	- Lecture 23 (Sep. 18): Decision trees [[slides]](slides/9/9-treebased-methods.pdf)
 	- Lab 9: Advanced regression [[lab 9 (pdf)]](labs/lab9/lab9.pdf) [[lab 9 (Rmd)]](labs/lab9/lab9.Rmd)
-	- Lecture 24 (Sep. 21): Bagging, Random Forests, Boosting
+	- Lecture 24 (Sep. 21): Bagging, Random Forests, Boosting [[slides]](slides/9/9-treebased-methods.pdf)
 	
 
 - Semester break	
