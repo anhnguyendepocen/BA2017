@@ -86,16 +86,17 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 9. Tree-based methods
 	- Lecture 23 (Sep. 18): Decision trees [[slides]](slides/9/9-treebased-methods.pdf)
-	- Lab 9: Advanced regression [[lab 9 (pdf)]](labs/lab9/lab9.pdf) [[lab 9 (Rmd)]](labs/lab9/lab9.Rmd)
+	- Lab 9: Advanced regression [[lab 9 (pdf)]](labs/lab9/lab9.pdf) [[lab 9 (Rmd)]](labs/lab9/lab9.Rmd) [[solutions (Rmd)]](labs/lab9/lab9-sol.Rmd) [[solutions (pdf)]](labs/lab9/lab9-sol.pdf)
 	- Lecture 24 (Sep. 21): Bagging, Random Forests, Boosting [[slides]](slides/9/9-treebased-methods.pdf)
 	
+
 
 - Semester break	
 	
 
 - Week 10. Clustering
 	- Lecture 19 (Oct. 2): K-means clustering 
-	- Lab 10: Advanced classification
+	- Lab 10: Tree-based methods [[lab 10 (pdf)]](labs/lab10/lab10.pdf) [[lab 10 (Rmd)]](labs/lab10/lab10.Rmd)
 	- Lecture 20 (Oct. 5): Hierarchical clustering		
 	
 - Week 11. Visualisation and Data wrangling
