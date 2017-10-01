@@ -95,7 +95,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 
 - Week 10. Clustering
-	- Lecture 19 (Oct. 2): K-means clustering 
+	- Lecture 19 (Oct. 2): K-means clustering [[slides]](slides/10/10-clustering.pdf)
 	- Lab 10: Tree-based methods [[lab 10 (pdf)]](labs/lab10/lab10.pdf) [[lab 10 (Rmd)]](labs/lab10/lab10.Rmd)
 	- Lecture 20 (Oct. 5): Hierarchical clustering		
 	
