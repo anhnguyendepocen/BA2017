@@ -97,14 +97,14 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - Week 10. Clustering
 	- Lecture 19 (Oct. 2): K-means clustering [[slides]](slides/10/10-clustering.pdf)
 	- Lab 10: Tree-based methods [[lab 10 (pdf)]](labs/lab10/lab10.pdf) [[lab 10 (Rmd)]](labs/lab10/lab10.Rmd)
-	- Lecture 20 (Oct. 5): Hierarchical clustering		
+	- Lecture 20 (Oct. 5): Hierarchical clustering	[[slides]](slides/10/10-clustering.pdf)	
 	
 - Week 11. Visualisation and Data wrangling
 	- Lecture 11 (Oct. 9): Visualisation 
 	- Lab 11:  Clustering 
 	- Lecture 12 (Oct. 12): Data wrangling
 	
-- Week 12. Data wrangling
+- Week 12. Project presentation
 	- Lecture 13 (Oct. 16): Project presentation (I/II)
 	- Lab 12: Data wrangling and visualisation
 	- Lecture 14 (Oct. 19): Project presentation (II/II)
