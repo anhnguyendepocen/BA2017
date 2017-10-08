@@ -46,7 +46,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - [Training data](project/working/Dtrain_final.csv)
 - [Example 1](project/examples/example1.pdf) [Example 2](project/examples/example2.pdf) [Example 3](project/examples/example3.pdf) [Example 4](project/examples/example4.pdf)
 
-Groups:
+## Groups:
 
 Monday, October 16, 2pm-3pm, CL_15 Ancora Imparo Way, Room L1 - Law Theatre (Bldg 12)
 - 02:00 - Sprit (Xin Qian Eng, Dewei Qiu, Han Yang Lim, Jiayin Tang)
