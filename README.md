@@ -105,13 +105,13 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	- Lecture 20 (Oct. 5): Hierarchical clustering	[[slides]](slides/10/10-clustering.pdf)	
 	
 - Week 11. Visualisation and Data wrangling
-	- Lecture 11 (Oct. 9): Visualisation 
+	- Lecture 11 (Oct. 9): Review + practice exam 
 	- Lab 11:  Clustering [[lab 11 (pdf)]](labs/lab11/lab11.pdf) [[lab 11 (Rmd)]](labs/lab11/lab11.Rmd)
-	- Lecture 12 (Oct. 12): Data wrangling
+	- Lecture 12 (Oct. 12): No class. Replaced by a consultation hour in Souhaib's office.
 	
 - Week 12. Project presentation
 	- Lecture 13 (Oct. 16): Project presentation (I/II)
-	- Lab 12: Data wrangling and visualisation
+	- No lab.
 	- Lecture 14 (Oct. 19): Project presentation (II/II)
 	
 
