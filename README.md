@@ -101,7 +101,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 	
 - Week 11. Visualisation and Data wrangling
 	- Lecture 11 (Oct. 9): Visualisation 
-	- Lab 11:  Clustering 
+	- Lab 11:  Clustering [[lab 11 (pdf)]](labs/lab11/lab11.pdf) [[lab 11 (Rmd)]](labs/lab11/lab11.Rmd)
 	- Lecture 12 (Oct. 12): Data wrangling
 	
 - Week 12. Project presentation
