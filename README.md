@@ -46,6 +46,22 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - [Training data](project/working/Dtrain_final.csv)
 - [Example 1](project/examples/example1.pdf) [Example 2](project/examples/example2.pdf) [Example 3](project/examples/example3.pdf) [Example 4](project/examples/example4.pdf)
 
+Groups:
+- Monday, 2pm-3pm, CL_15 Ancora Imparo Way, Room L1 - Law Theatre (Bldg 12)
+- 2  - Sprit (Xin Qian Eng, Dewei Qiu, Han Yang Lim, Jiayin Tang)
+- 4  - Spam Hunters (Chung Shern Lai, Jun Ze Teh, Sasha Jain, Ao Xu)
+- 5  - Bob the builder (Quan Gu, Timothy Kinheng Lee, Ba-Qin Loo, Jianxiang Zheng)
+- 6  - We R Great (Jai Andrew Sartori, Xuhao Zhang, Charlotte Catherine McKinnon, Xixi Yang)
+- 8  - Soup-A-Star (Deep Das Gupta, Hirumi Amanda Samarakoon, Rhea Judith D'Souza, Gabrielle Eileen Hay)
+- 11 - CK (Kai Yiu Lee, Chiu Lam Wong)
+
+Thursday, 12pm-1pm, CL_21 College Walk, Room E5, Eng Theatre (Bldg 32)
+- 1  - Jake (Ernest Kok Heem Chan, Jeremy Yik Han Tai,  Maximilian Thomas Baum, Kusal Perera)
+- 3  - SID (Jone Voung, Alvin Reksaniardana Iswanto, Lewis Steven Harding, Murphy Guo)
+- 7  - Resampling (Harrison Moir Austin, Kamalpreet Singh, Benjamin Craine, Timothy Luke Wilson)
+- 9  - Ye Boi (Addison Chen, Calvin Ly, Harrison Gar-yunn Gee, Brendan Fan Chen Zhong)
+- 10 - Z's Dragons (Jonathan Bryce, Mattew James Lane, Jennifer He, Tommy Lao)
+
 # Content
 
 - Week 1. Introduction: Ch1
