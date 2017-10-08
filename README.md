@@ -118,7 +118,7 @@ Thursday, October 19, 12pm-1pm, CL_21 College Walk, Room E5, Eng Theatre (Bldg 3
 
 - Week 10. Clustering
 	- Lecture 19 (Oct. 2): K-means clustering [[slides]](slides/10/10-clustering.pdf)
-	- Lab 10: Tree-based methods [[lab 10 (pdf)]](labs/lab10/lab10.pdf) [[lab 10 (Rmd)]](labs/lab10/lab10.Rmd)
+	- Lab 10: Tree-based methods [[lab 10 (pdf)]](labs/lab10/lab10.pdf) [[lab 10 (Rmd)]](labs/lab10/lab10.Rmd) [[solutions (Rmd)]](labs/lab10/lab10-sol.Rmd) [[solutions (pdf)]](labs/lab10/lab10-sol.pdf)
 	- Lecture 20 (Oct. 5): Hierarchical clustering	[[slides]](slides/10/10-clustering.pdf)	
 	
 - Week 11. Visualisation and Data wrangling
