@@ -37,7 +37,7 @@ If you feel like you need more practice in using RStudio, there are lots of free
 
 # Practice exam
 
-- [Practice exam 2017](exam-practice/practiceexam2017.pdf)
+- [Practice exam 2017](http://moodle.vle.monash.edu/course/view.php?id=38497)
 
 
 # Project
