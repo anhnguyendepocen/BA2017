@@ -30,7 +30,7 @@ ISLR Section 10.7, exercises 2(a), 2(b), 2(c) and 2(d).
 
 # Data 
 
-The crime dataset (crimes2008.csv) contains FBI crime rate statistics. These are the indices for 9 different types of crimes reported by the states of the USA, for 2008: violent, property, murder, rape, robbery, assault, burglary, ltheft (larceny theft), vtheft (vehicle theft). The values have been population adjusted so that the numers are per million people.
+The crime dataset (https://github.com/bsouhaib/BA2017/blob/master/data/crimes2008.csv) contains FBI crime rate statistics. These are the indices for 9 different types of crimes reported by the states of the USA, for 2008: violent, property, murder, rape, robbery, assault, burglary, ltheft (larceny theft), vtheft (vehicle theft). The values have been population adjusted so that the numers are per million people.
 
 ```{r echo=TRUE, results='hide'}
 crime <- read.csv("../../data/crimes2008.csv")
