@@ -1,3 +1,13 @@
+# Practice exam
+
+- [Practice exam 2017](http://moodle.vle.monash.edu/course/view.php?id=38497)
+
+# Consultation hours (exam)
+
+- Mojdeh: Tuesday, 24/10/2017, 11am-3pm,  Clayton campus, room W1105
+- Zina: Wednesday, 25/10/2017, 10am-12pm, Clayton campus, room W1105
+- Souhaib: Friday, 27/10/2017, 3pm-5pm, Clayton campus, Menzies Building, Room E765 
+
 # Course links
 
 - [Unit guide](https://unitguidemanager.monash.edu/view?tpCode=S2-01&tpYear=2017&unitCode=ETC3250&ticket=ST-4d63ae42bafcc28c0c993b0b37488417)
@@ -34,10 +44,6 @@ If you feel like you need more practice in using RStudio, there are lots of free
 - [dicook.github.io/Monash-R](http://dicook.github.io/Monash-R)
 - [www.cookbook-r.com](http://www.cookbook-r.com)
 - [Using RStudio](https://support.rstudio.com/hc/en-us/categories/200035113-Documentation)
-
-# Practice exam
-
-- [Practice exam 2017](http://moodle.vle.monash.edu/course/view.php?id=38497)
 
 
 # Project
