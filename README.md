@@ -129,7 +129,7 @@ Thursday, October 19, 12pm-1pm, CL_21 College Walk, Room E5, Eng Theatre (Bldg 3
 	
 - Week 11. Visualisation and Data wrangling
 	- Lecture 11 (Oct. 9): Review + practice exam 
-	- Lab 11:  Clustering [[lab 11 (pdf)]](labs/lab11/lab11.pdf) [[lab 11 (Rmd)]](labs/lab11/lab11.Rmd)
+	- Lab 11:  Clustering [[lab 11 (pdf)]](labs/lab11/lab11.pdf) [[lab 11 (Rmd)]](labs/lab11/lab11.Rmd) [[solutions (Rmd)]](labs/lab11/lab11-sol.Rmd) [[solutions (pdf)]](labs/lab11/lab11-sol.pdf)
 	- Lecture 12 (Oct. 12): No class. Replaced by a consultation hour in Souhaib's office.
 	
 - Week 12. Project presentation
