@@ -55,19 +55,19 @@ If you feel like you need more practice in using RStudio, there are lots of free
 ## Groups:
 
 Monday, October 16, 2pm-3pm, CL_15 Ancora Imparo Way, Room L1 - Law Theatre (Bldg 12)
-- 02:00 - Sprit (Xin Qian Eng, Dewei Qiu, Han Yang Lim, Jiayin Tang)
-- 02:10 - Spam Hunters (Chung Shern Lai, Jun Ze Teh, Sasha Jain, Ao Xu)
-- 02:20 - Bob the builder (Quan Gu, Timothy Kinheng Lee, Ba-Qin Loo, Jianxiang Zheng)
-- 02:30 - We R Great (Jai Andrew Sartori, Xuhao Zhang, Charlotte Catherine McKinnon, Xixi Yang)
-- 02:40 - Soup-A-Star (Deep Das Gupta, Hirumi Amanda Samarakoon, Rhea Judith D'Souza, Gabrielle Eileen Hay)
+- 02:00 pm - Sprit (Xin Qian Eng, Dewei Qiu, Han Yang Lim, Jiayin Tang)
+- 02:10 pm - Spam Hunters (Chung Shern Lai, Jun Ze Teh, Sasha Jain, Ao Xu)
+- 02:20 pm - Bob the builder (Quan Gu, Timothy Kinheng Lee, Ba-Qin Loo, Jianxiang Zheng)
+- 02:30 pm - We R Great (Jai Andrew Sartori, Xuhao Zhang, Charlotte Catherine McKinnon, Xixi Yang)
+- 02:40 pm - Soup-A-Star (Deep Das Gupta, Hirumi Amanda Samarakoon, Rhea Judith D'Souza, Gabrielle Eileen Hay)
 - 02:50 - CK (Kai Yiu Lee, Chiu Lam Wong)
 
 Thursday, October 19, 12pm-1pm, CL_21 College Walk, Room E5, Eng Theatre (Bldg 32)
-- 12:00 - Jake (Ernest Kok Heem Chan, Jeremy Yik Han Tai,  Maximilian Thomas Baum, Kusal Perera)
-- 12:10 - SID (Jone Voung, Alvin Reksaniardana Iswanto, Lewis Steven Harding, Murphy Guo)
-- 12:20 - Resampling (Harrison Moir Austin, Kamalpreet Singh, Benjamin Craine, Timothy Luke Wilson)
-- 12:30 - Ye Boi (Addison Chen, Calvin Ly, Harrison Gar-yunn Gee, Brendan Fan Chen Zhong)
-- 12:40 - Z's Dragons (Jonathan Bryce, Mattew James Lane, Jennifer He, Tommy Lao)
+- 12:00 pm - Jake (Ernest Kok Heem Chan, Jeremy Yik Han Tai,  Maximilian Thomas Baum, Kusal Perera)
+- 12:10 pm - SID (Jone Voung, Alvin Reksaniardana Iswanto, Lewis Steven Harding, Murphy Guo)
+- 12:20 pm - Resampling (Harrison Moir Austin, Kamalpreet Singh, Benjamin Craine, Timothy Luke Wilson)
+- 12:30 pm - Ye Boi (Addison Chen, Calvin Ly, Harrison Gar-yunn Gee, Brendan Fan Chen Zhong)
+- 12:40 pm - Z's Dragons (Jonathan Bryce, Mattew James Lane, Jennifer He, Tommy Lao)
 
 # Content
 
