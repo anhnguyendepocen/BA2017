@@ -60,7 +60,7 @@ Monday, October 16, 2pm-3pm, CL_15 Ancora Imparo Way, Room L1 - Law Theatre (Bld
 - 02:20 pm - Bob the builder (Quan Gu, Timothy Kinheng Lee, Ba-Qin Loo, Jianxiang Zheng)
 - 02:30 pm - We R Great (Jai Andrew Sartori, Xuhao Zhang, Charlotte Catherine McKinnon, Xixi Yang)
 - 02:40 pm - Soup-A-Star (Deep Das Gupta, Hirumi Amanda Samarakoon, Rhea Judith D'Souza, Gabrielle Eileen Hay)
-- 02:50 - CK (Kai Yiu Lee, Chiu Lam Wong)
+- 02:50 pm - CK (Kai Yiu Lee, Chiu Lam Wong)
 
 Thursday, October 19, 12pm-1pm, CL_21 College Walk, Room E5, Eng Theatre (Bldg 32)
 - 12:00 pm - Jake (Ernest Kok Heem Chan, Jeremy Yik Han Tai,  Maximilian Thomas Baum, Kusal Perera)
